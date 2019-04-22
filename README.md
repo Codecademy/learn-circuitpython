@@ -29,7 +29,8 @@ It adds hardware support for Python, so if you already have Python knowledge, yo
 [1.2]: http://www.twitter.com/marielsmusings
 [6.2]: http://www.github.com/marielfrank
     
-**Adafruit:** Limor "Ladyada" Fried (limor@ladyada.net)
+**Adafruit:** Limor "Ladyada" Fried (limor@ladyada.net) . 
+
 **Adafruit:** Phillip "pt" Torrone (pt@adafruit.com)
 
 ## Course Link ##
