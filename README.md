@@ -68,7 +68,7 @@ https://www.codecademy.com/learn/learn-circuitpython
 ### CircuitPython Cheatsheets ###
 
 * [Adafruit CircuitPython Cheatsheet](https://github.com/adafruit/awesome-circuitpython/blob/master/cheatsheet/CircuitPython_Cheatsheet.md)
-* Codecademy CircuitPython Cheathseet (TBA)
+* Codecademy CircuitPython Cheatsheet (TBA)
 
 ### Hall of Fame ###
 
