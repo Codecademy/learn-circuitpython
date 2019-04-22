@@ -43,9 +43,9 @@ https://www.codecademy.com/learn/learn-circuitpython
 
 ## 1. Circuit Playground Express: Part 1 ##
 
-- [x] [`initials.cpp`](1-hello-world/block-letters/initials.cpp)  
-- [x] [`snowman.cpp`](1-hello-world/block-letters/snowman.cpp)
-- [x] [`codecademy.cpp`](1-hello-world/block-letters/codecademy.cpp)
+- [x] [`code.py`](1-hello-world/block-letters/initials.cpp)  
+- [x] [`code.py`](1-hello-world/block-letters/snowman.cpp)
+- [x] [`code.py`](1-hello-world/block-letters/codecademy.cpp)
 
 **Bike Light:**
 
@@ -53,8 +53,8 @@ https://www.codecademy.com/learn/learn-circuitpython
 
 ## 2. Circuit Playground Express: Part 2 ##
 
-- [x] [`space.cpp`](3-conditionals-and-logic/space.cpp)
-- [ ] `leapyear.cpp`
+- [x] [`code.py`](3-conditionals-and-logic/space.cpp)
+- [ ] `code.py`
 
 **Plant Care**
 
@@ -62,7 +62,7 @@ https://www.codecademy.com/learn/learn-circuitpython
 
 **The 808 Drum Machine**
 
-- [x] [`sortinghat.cpp`](3-conditionals-and-logic/harry-potter-sorting-hat/sortinghat.cpp)
+- [x] [`code.py`](3-conditionals-and-logic/harry-potter-sorting-hat/sortinghat.cpp)
 
 ### CircuitPython Cheatsheets ###
 
