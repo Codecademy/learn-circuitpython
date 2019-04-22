@@ -74,8 +74,6 @@ https://www.codecademy.com/learn/learn-circuitpython
 
 * TBA
 
-<br>
-
 ## Contribution Guidelines
 
 We'd love to have you contribute! 
