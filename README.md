@@ -33,7 +33,7 @@ https://www.codecademy.com/learn/learn-circuitpython
 [1.2]: http://www.twitter.com/marielsmusings
 [6.2]: http://www.github.com/marielfrank
     
-**Adafruit:** Limor Fried (limor@ladyada.net)  
+**Adafruit:** Limor Fried (limor@adafruit.com)  
 
 **Adafruit:** Phillip Torrone (pt@adafruit.com)
 
