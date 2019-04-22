@@ -50,7 +50,7 @@ https://www.codecademy.com/learn/learn-circuitpython
 **Bike Light:**
 
 - [x] [`code.py`](circuit-playground-part-1/bike-light/code.py)
-- [ ] `bedazzle.py`
+- [x] [`bedazzle.py`](circuit-playground-part-1/bike-light/bedazzle_bike_light.py) (by [Cephir909](https://www.codecademy.com/cephir909))
 
 ## 2. Circuit Playground Express: Part 2 ##
 
