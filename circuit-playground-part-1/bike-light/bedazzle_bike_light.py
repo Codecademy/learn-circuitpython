@@ -3,7 +3,7 @@ import time
 
 while True:
   if cpx.switch:
-    #red blinkz stuff:
+    # red blinkz stuff:
     count = 0
     while count <= 3:
       cpx.pixels.fill((255, 0, 0)) 
@@ -11,7 +11,7 @@ while True:
       cpx.pixels.fill((0, 0, 0))
       time.sleep(0.5)
       count += 1
-    #bedazzle function:
+    # bedazzle function:
     time.sleep(0.5)
     cpx.pixels[0] = (255, 0, 0)
     time.sleep(0.2)
@@ -36,5 +36,5 @@ while True:
     cpx.pixels.fill((0, 0, 0))
     time.sleep(0.5)
   else:
-    #shut it up:
+    # shut it up:
     cpx.pixels.fill((0, 0, 0))
