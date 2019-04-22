@@ -11,7 +11,6 @@ while True:
       cpx.pixels.fill((0, 0, 0))
       time.sleep(0.5)
       count += 1
-
     #bedazzle function:
     time.sleep(0.5)
     cpx.pixels[0] = (255, 0, 0)
