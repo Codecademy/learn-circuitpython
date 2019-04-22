@@ -8,7 +8,11 @@ It adds hardware support for Python, so if you already have Python knowledge, yo
 
 <!-- [![](https://img.shields.io/badge/language-English-blue.svg)](./README.md) -->
 
-**Codecademy:** Sonny Li (sonny@codecademy.com)
+## Course Link ##
+
+https://www.codecademy.com/learn/learn-circuitpython
+
+## Course Creators ## 
 
 <!-- links to social media icons -->
 
@@ -33,9 +37,7 @@ It adds hardware support for Python, so if you already have Python knowledge, yo
 
 **Adafruit:** Phillip Torrone (pt@adafruit.com)
 
-## Course Link ##
-
-https://www.codecademy.com/learn/learn-circuitpython
+**Codecademy:** Sonny Li (sonny@codecademy.com)
 
 ### Adafruit Discord ###
 
