@@ -52,6 +52,7 @@ https://www.codecademy.com/learn/learn-circuitpython
 **Bike Light:**
 
 - [x] [`code.py`](2-variables/piggy-bank/currency.cpp)
+- [ ] `bedazzle.py`
 
 ## 2. Circuit Playground Express: Part 2 ##
 
