@@ -8,7 +8,7 @@ It adds hardware support for Python, so if you already have Python knowledge, yo
 
 <!-- [![](https://img.shields.io/badge/language-English-blue.svg)](./README.md) -->
 
-**Codecademy:** Sonny Li (sonny@codecademy.com) [![alt text][1]][1.1] [![alt text][6]][6.1]
+**Codecademy:** Sonny Li (sonny@codecademy.com)
 
 <!-- links to social media icons -->
 
