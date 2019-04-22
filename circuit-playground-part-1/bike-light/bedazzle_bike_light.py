@@ -1,8 +1,9 @@
 from adafruit_circuitplayground.express import cpx
 import time
+
 while True:
   if cpx.switch:
-#red blinkz stuff:
+    #red blinkz stuff:
     count = 0
     while count <= 3:
       cpx.pixels.fill((255, 0, 0)) 
@@ -11,7 +12,7 @@ while True:
       time.sleep(0.5)
       count += 1
 
-#badazzle-function:
+    #bedazzle function:
     time.sleep(0.5)
     cpx.pixels[0] = (255, 0, 0)
     time.sleep(0.2)
@@ -35,7 +36,6 @@ while True:
     time.sleep(0.5)
     cpx.pixels.fill((0, 0, 0))
     time.sleep(0.5)
-#shut it up:
   else:
+    #shut it up:
     cpx.pixels.fill((0, 0, 0))
-
