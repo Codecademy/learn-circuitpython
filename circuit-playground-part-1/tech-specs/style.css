@@ -43,6 +43,8 @@ svg {
   text-align: center;
   /* transition-property: all; */
   transition-duration: 0.75s;
+  opacity: 0.8;
+  border-radius: 5px;
 }
 
 .hidden {

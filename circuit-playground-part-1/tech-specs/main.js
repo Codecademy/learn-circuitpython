@@ -1,7 +1,7 @@
 const texts = {
   button1: {
     h1: "Button A",
-    span: 'There are two momentary push buttons, you can use these in any of your projects to change modes, indicate when to start or stop, modify behavior, etc.'
+    span: 'There are two momentary push buttons to change modes, indicate when to start or stop, modify behavior, etc.'
   },
   slide: {
     h1: 'Slide Switch',
@@ -21,7 +21,7 @@ const texts = {
   },
   button2: {
     h1: 'Button B',
-    span: 'There are two momentary push buttons, you can use these in any of your projects to change modes, indicate when to start or stop, modify behavior, etc.'
+    span: 'There are two momentary push buttons to change modes, indicate when to start or stop, modify behavior, etc.'
   },
   reset: {
     h1: 'Reset Button',
