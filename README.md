@@ -39,9 +39,9 @@ https://www.codecademy.com/learn/learn-circuitpython
 
 **Codecademy:** Sonny Li (sonny@codecademy.com)
 
-### Adafruit Discord ###
+### Discord ###
 
-[http://adafru.it/discord](http://adafru.it/discord)  
+[http://adafru.it/discord](http://adafru.it/discord)
 
 ## 1. Circuit Playground Express: Part 1 ##
 
