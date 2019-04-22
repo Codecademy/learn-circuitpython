@@ -45,31 +45,29 @@ https://www.codecademy.com/learn/learn-circuitpython
 
 ## 1. Circuit Playground Express: Part 1 ##
 
-- [x] [`code.py`](1-hello-world/block-letters/initials.cpp)  
-- [x] [`code.py`](1-hello-world/block-letters/snowman.cpp)
-- [x] [`code.py`](1-hello-world/block-letters/codecademy.cpp)
+- [x] `code.py`
 
 **Bike Light:**
 
-- [x] [`code.py`](2-variables/piggy-bank/currency.cpp)
+- [x] [`code.py`](circuit-playground-part-1/bike-light/code.py)
 - [ ] `bedazzle.py`
 
 ## 2. Circuit Playground Express: Part 2 ##
 
-- [x] [`code.py`](3-conditionals-and-logic/space.cpp)
 - [ ] `code.py`
 
 **Plant Care**
 
-- [x] [`code.py`](3-conditionals-and-logic/magic-8-ball/magic8.cpp)
+- [x] [`code.py`](circuit-playground-part-2/plant-care/code.py)
 
 **The 808 Drum Machine**
 
-- [x] [`code.py`](3-conditionals-and-logic/harry-potter-sorting-hat/sortinghat.cpp)
+- [ ] `code.py`
 
 ### CircuitPython Cheatsheets ###
 
-* TBA
+* [Adafruit CircuitPython Cheatsheet](https://github.com/adafruit/awesome-circuitpython/blob/master/cheatsheet/CircuitPython_Cheatsheet.md)
+* Codecademy CircuitPython Cheathseet (TBA)
 
 ### Hall of Fame ###
 
