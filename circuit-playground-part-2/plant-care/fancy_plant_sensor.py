@@ -60,7 +60,7 @@ while True:
         sleep(0.2)
         cpx.pixels[9] = (0, 0, 0)
         cpx.pixels.fill((0, 0, 0))
-      else:
+      else: 
         cpx.pixels.fill((51, 204, 51))
         sleep(0.5)
         cpx.pixels.fill((0, 0, 0))
