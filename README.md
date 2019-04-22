@@ -59,6 +59,7 @@ https://www.codecademy.com/learn/learn-circuitpython
 **Plant Care**
 
 - [x] [`code.py`](circuit-playground-part-2/plant-care/code.py)
+- [x] [`fancy_plant_sensor.py`](circuit-playground-part-2/plant-care/fancy_plant_sensor.py) (by [cephir909](https://www.codecademy.com/cephir909))
 
 **The 808 Drum Machine**
 
