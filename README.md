@@ -2,6 +2,10 @@
 
 <a href="https://www.codecademy.com" target="_blank"><img src="https://github.com/Codecademy/learn-cpp/blob/master/logo.png" align="right" width=170;></a>
 
+CircuitPython is a programming language designed to simplify experimenting and learning to program on hardware devices. It makes getting started with low-cost microcontroller boards easier than ever before.
+
+It adds hardware support for Python, so if you already have Python knowledge, you can easily apply that to using CircuitPython. If you have no previous experience, it’s really simple to get started!
+
 <!-- [![](https://img.shields.io/badge/language-English-blue.svg)](./README.md) -->
 
 **Codecademy:** Sonny Li (sonny@codecademy.com) [![alt text][1]][1.1] [![alt text][6]][6.1]
