@@ -2,7 +2,9 @@ from adafruit_circuitplayground.express import cpx
 from time import sleep
 import touchio
 from board import *
-#temperature and light sensors, plus light output and sound. thresholds to be adjusted as needed.
+
+# temperature and light sensors, plus light output and sound. thresholds to be adjusted as needed.
+
 while True:
   if cpx.switch:
     if cpx.button_a:
