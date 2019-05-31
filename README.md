@@ -76,7 +76,7 @@ https://www.codecademy.com/learn/learn-circuitpython
 
 ### Hall of Fame ###
 
-* TBA
+* [x] [`light_sensor.py`](https://github.com/Codecademy/learn-circuitpython/blob/master/hall-of-fame/light_sensor.py) (by stdliston)
 
 ## Contribution Guidelines
 
