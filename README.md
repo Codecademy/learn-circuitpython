@@ -62,6 +62,8 @@ https://www.codecademy.com/learn/learn-circuitpython
 
 **Plant Care**
 
+<img src="https://github.com/Codecademy/learn-circuitpython/blob/master/circuit-playground-part-2/plant-care/plant-care.gif" align="right" width=250;>
+
 - [x] [`code.py`](circuit-playground-part-2/plant-care/code.py)
 - [x] [`fancy_plant_sensor.py`](circuit-playground-part-2/plant-care/fancy_plant_sensor.py) (by [cephir909](https://www.codecademy.com/cephir909))
 
@@ -76,7 +78,7 @@ https://www.codecademy.com/learn/learn-circuitpython
 
 ### Hall of Fame ###
 
-* [x] [`light_sensor.py`](https://github.com/Codecademy/learn-circuitpython/blob/master/hall-of-fame/light_sensor.py) (by stdliston)
+* [x] [`light_sensor.py`](https://github.com/Codecademy/learn-circuitpython/blob/master/hall-of-fame/light_sensor.py) (by sdliston)
 
 ## Contribution Guidelines
 
