@@ -45,11 +45,11 @@ https://www.codecademy.com/learn/learn-circuitpython
 
 ## 1. Circuit Playground Express: Part 1 ##
 
-- [x] `code.py`
+- [ ] `code.py`
 
 **Bike Light:**
 
-<img src="https://github.com/Codecademy/learn-circuitpython/blob/master/circuit-playground-part-1/bike-light/bike_light.gif" align="right" width=200;>
+<img src="https://github.com/Codecademy/learn-circuitpython/blob/master/circuit-playground-part-1/bike-light/bike_light.gif" align="right" width=250;>
 
 - [x] [`code.py`](circuit-playground-part-1/bike-light/code.py)
 - [x] [`kitt.py`](circuit-playground-part-1/bike-light/kitt.py) (by [ericgfx](https://www.codecademy.com/EricGrossDesign))
