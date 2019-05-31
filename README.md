@@ -54,6 +54,8 @@ https://www.codecademy.com/learn/learn-circuitpython
 - [x] [`bedazzle_bike_light.py`](circuit-playground-part-1/bike-light/bedazzle_bike_light.py) (by [cephir909](https://www.codecademy.com/cephir909))
 - [x] [`randomize_bike_light.py`](circuit-playground-part-1/bike-light/randomize_bike_light.py) (by joedrury73)
 
+![asdf](https://github.com/Codecademy/learn-circuitpython/blob/master/circuit-playground-part-1/bike-light/bike_light.gif)
+
 ## 2. Circuit Playground Express: Part 2 ##
 
 - [ ] `code.py`
