@@ -14,13 +14,13 @@ while True:
         while temp1_count < 3:
           cpx.play_tone(262, 1.0)
           temp1_count += 1
-        cpx.pixels.fill(0, 102, 255)
+        cpx.pixels.fill((0, 102, 255))
       elif cpx.temperature >= 35.0:
         temp2_count = 0
         while temp2_count < 3:
           cpx.play_tone(294, 1.0)
           temp2_count += 1
-        cpx.pixels.fill(255, 51, 0)
+        cpx.pixels.fill((255, 51, 0))
       else:
           cpx.pixels.fill((0, 255, 0))
           sleep(0.5)
