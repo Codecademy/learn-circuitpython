@@ -54,7 +54,7 @@ https://www.codecademy.com/learn/learn-circuitpython
 - [x] [`code.py`](circuit-playground-part-1/bike-light/code.py)
 - [x] [`kitt.py`](circuit-playground-part-1/bike-light/kitt.py) (by [ericgfx](https://www.codecademy.com/EricGrossDesign))
 - [x] [`bedazzle_bike_light.py`](circuit-playground-part-1/bike-light/bedazzle_bike_light.py) (by [cephir909](https://www.codecademy.com/cephir909))
-- [x] [`randomize_bike_light.py`](circuit-playground-part-1/bike-light/randomize_bike_light.py) (by joedrury73)
+- [x] [`randomize_bike_light.py`](circuit-playground-part-1/bike-light/randomize_bike_light.py) (by [j_drury73](https://www.codecademy.com/j_drury73))
 
 ## 2. Circuit Playground Express: Part 2 ##
 
