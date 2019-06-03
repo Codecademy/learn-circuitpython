@@ -78,7 +78,7 @@ https://www.codecademy.com/learn/learn-circuitpython
 
 ### Hall of Fame ###
 
-* [x] [`light_sensor.py`](https://github.com/Codecademy/learn-circuitpython/blob/master/hall-of-fame/light_sensor.py) (by sdliston)
+* [x] [`light_sensor.py`](https://github.com/Codecademy/learn-circuitpython/blob/master/hall-of-fame/light_sensor.py) (by [sdliston](https://www.codecademy.com/sdliston))
 
 ## Contribution Guidelines
 
