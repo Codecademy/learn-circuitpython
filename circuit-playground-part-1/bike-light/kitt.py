@@ -32,17 +32,17 @@ def functionPress(functionIndex):
   return functionIndex
 
 ###### Color and Blinking ######
-def blinkLed(colorIndex, d = 0.5, ledIndex = 10, turnOff = True):
-  if ledIndex == 10:
-    cpx.pixels.fill((rainbow[colorIndex][0], rainbow[colorIndex][1], rainbow[colorIndex][2]))
-    time.sleep(d)
-  else:
-    cpx.pixels[ledIndex] = (rainbow[colorIndex][0], rainbow[colorIndex][1], rainbow[colorIndex][2])
-    time.sleep(d)
-  if turnOff == True:
-  	cpx.pixels.fill((0, 0, 0))
-  	time.sleep(d)
-  return
+def blinkLed(colorIndex, d=0.5, ledIndex=10, turnOff=True, dimfactor=0.3#factor in percent):
+    if ledIndex == 10:
+        cpx.pixels.fill((int(rainbow[colorIndex][0] *dimfactor), int(rainbow[colorIndex][1]*dimfactor), int(rainbow[colorIndex][2]*dimfactor)))
+        time.sleep(d)
+    else:
+        cpx.pixels[ledIndex] = (int(rainbow[colorIndex][0]*dimfactor), int(rainbow[colorIndex][1]*dimfactor), int(rainbow[colorIndex][2]*dimfactor))
+        time.sleep(d)
+    if turnOff:
+        cpx.pixels.fill((0, 0, 0))
+        time.sleep(d)
+    return
 
 def kitt(d = 0.1):
   global colorIndex
