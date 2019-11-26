@@ -32,7 +32,7 @@ def functionPress(functionIndex):
   return functionIndex
 
 ###### Color and Blinking ######
-def blinkLed(colorIndex, d=0.5, ledIndex=10, turnOff=True, dimfactor=0.3#factor in percent):
+def blinkLed(colorIndex, d=0.5, ledIndex=10, turnOff=True, dimfactor=0.3): #dimfactor in percent
     if ledIndex == 10:
         cpx.pixels.fill((int(rainbow[colorIndex][0] *dimfactor), int(rainbow[colorIndex][1]*dimfactor), int(rainbow[colorIndex][2]*dimfactor)))
         time.sleep(d)
