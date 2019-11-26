@@ -17,19 +17,17 @@ rainbow = ((255, 0, 0), (255, 85, 0), (255, 255, 0), (0, 255, 0), (34, 139, 34),
 
 ###### Function to Change Color ######
 def checkPress(colorIndex):
-  if cpx.button_a:
-    colorIndex += 1
-    if colorIndex > 10:
-      return 0
-  return colorIndex
+    if cpx.button_a:
+        colorIndex += 1
+        colorIndex = colorIndex % 10
+    return colorIndex
 
 ###### Function to Change Function ######
 def functionPress(functionIndex):
-  if cpx.button_b:
-    functionIndex += 1
-    if functionIndex > 2:
-      return 0
-  return functionIndex
+    if cpx.button_b:
+        functionIndex += 1
+        functionIndex = functionIndex % 3
+    return functionIndex
 
 ###### Color and Blinking ######
 def blinkLed(colorIndex, d = 0.5, ledIndex = 10, turnOff = True):
@@ -58,14 +56,13 @@ def kitt(d = 0.1):
   time.sleep(d)
   return
 
-def rainbowSpin(d = 0.1):
-  global colorIndex
-  for x in range(0, 10):
-    blinkLed(colorIndex, d, x, False)
-  colorIndex += 1
-  if colorIndex > 10:
-    colorIndex = 0
-  return
+def rainbowSpin(d=0.1):
+    global colorIndex
+    for x in range(0, 10):
+        blinkLed(colorIndex, d, x, False)
+    colorIndex += 1
+    colorIndex = colorIndex % 10
+    return
 
 ##########################
 ###### Main Program ######
