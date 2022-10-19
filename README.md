@@ -27,8 +27,6 @@ https://www.codecademy.com/learn/learn-circuitpython
 
 <!-- links to social media accounts -->
 
-[1.1]: http://www.twitter.com/sonnynomnom
-[6.1]: http://www.github.com/sonnynomnom
 
 [1.2]: http://www.twitter.com/marielsmusings
 [6.2]: http://www.github.com/marielfrank
@@ -37,7 +35,7 @@ https://www.codecademy.com/learn/learn-circuitpython
 
 **Adafruit:** Phillip Torrone (pt@adafruit.com)
 
-**Codecademy:** Sonny Li (sonny@codecademy.com)
+**Codecademy:** Sonny Li 
 
 ### Discord ###
 
